@@ -5,9 +5,14 @@ body {background-color: rgb(43, 44, 46);
 h1 {
     color: rgb(204, 204, 216);
     font-family: Arial, Helvetica, sans-serif;  
+    text-align: center;
+    font-size: 4em;
 }
 
-h2 {color: rgb(255, 255, 255);}
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+}
 
 h4 {color: rgb(255, 255, 255);}
     
