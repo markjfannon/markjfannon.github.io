@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/markjfannon/Documents/Code/markjfannon.github.io/mjf",
+	"sourceRoot": "/Users/markjfannon/Documents/Code/markjfannon.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
