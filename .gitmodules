@@ -1,0 +1,3 @@
+[submodule "mjf/themes/ananke"]
+	path = mjf/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
